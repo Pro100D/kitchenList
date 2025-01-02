@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kitchenList/static/css/main.7acaea2f.css",
+    "main.js": "/kitchenList/static/js/main.07d3183d.js",
+    "index.html": "/kitchenList/index.html",
+    "main.7acaea2f.css.map": "/kitchenList/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/kitchenList/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
