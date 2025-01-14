@@ -4,11 +4,18 @@
   "private": true,
   "homepage": "https://Pro100D.github.io/kitchenList/",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@reduxjs/toolkit": "^2.5.0",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
+    "debounce": "^2.2.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.1.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.3"
   },
