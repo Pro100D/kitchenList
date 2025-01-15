@@ -5,12 +5,11 @@ import './index.css';
 import { BrowserRouter } from 'react-router-dom';
 import { Global } from '@emotion/react';
 import { GlobalStyles } from 'GlobalStyles';
-// import { Provider } from 'react-redux';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Global styles={GlobalStyles} />
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/kitchenList">
       <App />
     </BrowserRouter>
   </React.StrictMode>
