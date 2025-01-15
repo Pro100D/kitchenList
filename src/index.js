@@ -9,7 +9,7 @@ import { GlobalStyles } from 'GlobalStyles';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Global styles={GlobalStyles} />
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/kitchenList">
       <App />
     </BrowserRouter>
   </React.StrictMode>
